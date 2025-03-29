@@ -1,0 +1,8 @@
+vectorbt>=0.25
+pandas
+numpy
+scipy
+plotly
+ta
+pytest
+pyarrow
